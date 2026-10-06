@@ -1,6 +1,3 @@
-# Para fazer o deploy da aplicação
-
-# Colocar as ferramentas que esta sendo usadas no projeto
 streamlit
 pandas
 plotly
