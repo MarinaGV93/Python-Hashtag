@@ -60,10 +60,10 @@ Antes de começar, você precisa ter instalado em sua máquina um editor para tr
 
 | Aulas |
 | :----: |
-|  |
-|  |
-|  |
-|  | 
+| [PowerUp](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%201%20-%20PowerUp) |
+| [Insights](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%202%20-%20Insights) |
+| [IA](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%203%20-%20IA) |
+| [DEV](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%204%20-%20DEV) | 
 <!--
 | []() |
 | []() |
