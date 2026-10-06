@@ -62,6 +62,12 @@ Para pegar a chave da IA
 
     Dashboard -> Chaves de API -> Criar chave de API
 
+Para fazer o deploy da aplicação
+
+    Criar um arquivo requirements.txt
+
+    Colocar as ferramentas que esta sendo usadas no projeto
+
 Fazer deploy
 
     Conectar o github no streamlit
