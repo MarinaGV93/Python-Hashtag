@@ -1,0 +1,79 @@
+pandas
+
+    Trabalha com banco de dados
+
+    dataframe = tabela do pandas
+
+pyautogui
+
+    Automatizar as tarefas
+
+        pip install pyautogui
+
+    Importar a biblioteca pyautogui:
+
+        import pyautogui
+
+openpyxl
+
+    Da uma funcionalidade para o pandas para trabalhar com base de dados no excel
+
+nbformat eipykernel
+
+    Para o arquivo .pynb
+    
+    Para poder exibir gráficos, para rodar os códigos em linhas (blocos) separadas
+
+plotly
+
+    Criar gráficos
+
+streamlit
+
+    Constroi toda a interface, o sistema
+
+openai
+
+    Integrar com o modelo de IA 
+
+Arquivos .pynb:
+
+    Tem celulas de códigos, onde separa o código em pedaços e rodar somente ele
+
+    Formato mais utilizado para projetos de dados
+
+    Instalar a extensão jupyter
+
+tabula
+
+    Converte PDF para tabela
+
+Pegar base de dados
+
+    kaggle
+
+Para executar um codigo que vai ficar no ar, como o de IA
+
+    streamlit run "nome do arquivo"
+
+Para pegar a chave da IA
+
+    https://aistudio.google.com
+
+    Dashboard -> Chaves de API -> Criar chave de API
+
+Fazer deploy
+
+    Conectar o github no streamlit
+
+        Criar um repositorio
+
+        Fazer upload dos arquivos
+
+        Entrar no streamlit cloud community (https://streamlit.io/cloud)
+
+        Faz login com o github
+
+        Criar app
+        
+        Deploy com github
