@@ -25,7 +25,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-4fa8fb?style=plastic&logo=github&logoColor=white)](https://github.com/MarinaGV93)
-[![Linkedin](https://img.shields.io/badge/Linkedin-4fa8fb?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinagolaovale/?isSelfProfile=true)
+[![Linkedin](https://img.shields.io/badge/Linkedin-4fa8fb?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinagolaovale)
 [![License](https://img.shields.io/badge/License-4fa8fb?style=plastic&logo=cachet&logoColor=white)](https://github.com/MarinaGV93/Python/blob/main/LICENSE)
 <!--
 [![Git](https://img.shields.io/badge/GIT-4fa8fb?style=plastic&logo=git&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Git)
@@ -58,12 +58,12 @@ Antes de começar, você precisa ter instalado em sua máquina um editor para tr
 
 <div id="table" align="center">
 
-| Aulas |
-| :----: |
-| [PowerUp](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%201%20-%20PowerUp) |
-| [Insights](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%202%20-%20Insights) |
-| [IA](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%203%20-%20IA) |
-| [DEV](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%204%20-%20DEV) | 
+| Aulas | Projetos
+| :----: | :----: |
+| [PowerUp](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%201%20-%20PowerUp) | []() |
+| [Insights](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%202%20-%20Insights) | []() |
+| [IA](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%203%20-%20IA) | []() |
+| [DEV](https://github.com/MarinaGV93/Python_Hashtag/tree/main/Aula%204%20-%20DEV) | [Cadastro de vendas](https://cadastrodevendas.streamlit.app) |
 <!--
 | []() |
 | []() |
